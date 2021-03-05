@@ -12,6 +12,15 @@ html {
     background-size: cover;
   }
 
+  nav a{
+    color: white;
+
+  }
+
+  nav{
+    text-align: center;
+  }
+
   button{
 
   margin:  340px 500px 0px 700px;
